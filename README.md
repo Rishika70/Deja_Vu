@@ -70,10 +70,10 @@ where $\Psi_{dv}$ represents the déjà vu state — a **superposition of tempor
 ## 🌌 Visualization
 You can view conceptual diagrams in `/figures`:
 
-- **latent_possibilities.png** – Depicts the quantum field of latent potentials.  
-- **temporal_dissolution.png** – Represents the non-linear temporal access during déjà vu.  
-- **multiversal_resonance.png** – Illustrates parallel universe alignment.  
-- **pre_vibrational_field.png** – Shows emergence from formless energy substratum.  
+- **latent_possibilities** – Depicts the quantum field of latent potentials.  
+- **temporal_dissolution** – Represents the non-linear temporal access during déjà vu.  
+- **multiversal_resonance** – Illustrates parallel universe alignment.  
+- **pre_vibrational_field** – Shows emergence from formless energy substratum.  
 
 ---
 
