@@ -88,7 +88,7 @@ You can view conceptual diagrams in `/figures`:
 
 ## 🪞 Author
 **Rishika Rai**  
-Data Scientist · Independent Researcher · AGI & Consciousness Systems  
+· Independent Researcher · AGI & Consciousness Systems  
 
 > “Reality may not repeat — but resonance remembers.”
 
