@@ -44,13 +44,7 @@ The central idea: **latent possibilities** within a pre-vibrational field (beyon
 3. Energetic resonance occurs between compatible configurations.  
 4. The overlap produces the perceptual echo we experience as déjà vu.  
 
-Mathematically, this can be framed as:
-\[
-\Psi_{dv} = \sum_i c_i \psi_i(t) + \sum_j \alpha_j \psi'_j(t')
-\]
-where $\Psi_{dv}$ represents the déjà vu state — a **superposition of temporally offset yet coherent waveforms** across dimensions.
 
----
 
 ## 🔭 Implications
 - **Consciousness:** Non-local, interactive with universal potential.  
